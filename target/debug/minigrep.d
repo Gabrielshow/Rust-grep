@@ -1,0 +1,1 @@
+C:\Users\kp\Desktop\fela\Languages\Rust\rust-practice\minigrep\target\debug\minigrep.exe: C:\Users\kp\Desktop\fela\Languages\Rust\rust-practice\minigrep\src\lib.rs C:\Users\kp\Desktop\fela\Languages\Rust\rust-practice\minigrep\src\main.rs
